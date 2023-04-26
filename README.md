@@ -46,3 +46,5 @@ and transactions.market_code="Mark001";`
 
 ## Dashboard link
 ![Dashboard link](https://public.tableau.com/views/SalesInsights_16784457664130/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Deploye Project Link
+[Deploye Project Link](https://public.tableau.com/app/profile/rohit.verma3992/viz/SalesInsights_16784457664130/Dashboard1) 
